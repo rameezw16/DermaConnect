@@ -1,13 +1,13 @@
-# 💄 GlowSense - Skincare & Beauty Consultancy Platform  
-Glow Sense's Skincare &amp; Beauty Consultancy Platform connects users with beauty experts for personalized skincare advice, product recommendations, and consultations. The platform offers expert matching, virtual consultations, and trending makeup products, providing a seamless experience for users seeking beauty and skincare solutions.
+# DermaCare - Skincare Consultancy Platform  
+DermaCare connects users with experts for personalized skincare advice, product recommendations, and consultations. The platform offers expert matching, virtual consultations, and best products, providing a seamless experience for users seeking skincare solutions.
 
 ---
 
 ## 📌 Project Overview  
 A **full-stack platform** enabling users to:  
 - Receive personalized skincare recommendations  
-- Book virtual consultations with dermatologists/beauty experts  
-- Purchase trending makeup products *(non-personalized)*  
+- Book virtual consultations with dermatologists  
+- Purchase best products *(non-personalized)*  
 - Manage follow-ups and reviews  
 
 **Developed by**: Breeha Qasim, Namel Shahid, Ashbah Faisal, Rameez Wasif  
